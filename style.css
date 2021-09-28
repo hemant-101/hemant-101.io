@@ -1,0 +1,114 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: linear-gradient(75deg,rgb(235, 135, 135),rgb(148, 79, 39),skyblue);
+}
+
+
+
+
+#header{
+    width: 100%;
+    background-color: cornsilk;
+    height: 70px;
+}
+
+.brand{
+    width: 40%;
+    float: left;
+    text-align: center;
+    line-height: 70px;
+    background-color: black;
+    color:white;
+
+}
+
+a{
+    text-decoration: none;
+    margin-right: 10px;
+    color: rgb(245, 237, 237);
+
+}
+.nav{
+    width: 60%;
+    float: right;
+    text-align: center;
+line-height: 70px;
+background-color: black;
+color:white;
+}
+#heading{
+    text-align: center;
+    margin-top: 40px;
+}
+
+#heading2{
+    margin-top: 20px;
+    text-align: center;
+    background: linear-gradient(
+45deg,rgb(231, 79, 79),white);
+width: 30%;
+margin: 20px auto ;
+padding: 20px;
+border-radius: 50%;
+}
+table{
+    width: 100%;
+    margin: 10px;
+}
+
+.frenchH1{
+    margin-top: 20px;
+    text-align: center;
+    background: linear-gradient(
+        45deg,rgb(235, 135, 210),white);
+        width: 30%;
+        margin: 20px auto ;
+        padding: 20px;
+        border-radius: 50%;
+
+}
+#table{
+    width: 100%;
+    margin: 10px;
+}
+td{
+    text-align: center;
+}
+
+.BurgerH1{
+    margin-top: 20px;
+    text-align: center;
+    background: linear-gradient(
+        45deg,rgb(108, 46, 67),white);
+        width: 30%;
+        margin: 20px auto ;
+        padding: 20px;
+        border-radius: 50%;
+}
+.footer{
+    margin-top: 20px;
+    background-color: black;
+    color: white;
+    align-items: center;
+    
+}
+#para1{
+    text-align: center;
+}
+#para2{
+    text-align: center;
+}
+.icons{
+    text-align: center;
+    padding: 10px;
+    
+}
+a{
+    margin-right: 25px;
+}
+p{
+    text-align: center;
+}
